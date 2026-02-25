@@ -1,0 +1,23 @@
+{
+    "source": "LIVE",
+    "enregistrement": "resultats_parking\\parking_live_20260209_235838.avi",
+    "duree_session": 9,
+    "max_voitures": 0,
+    "min_voitures": 0,
+    "moyenne": 0.0,
+    "par_mode": {
+        "JOUR": {
+            "frames": 9,
+            "moyenne": 0.0
+        },
+        "NUIT": {
+            "frames": 0,
+            "moyenne": 0
+        },
+        "CREPUSCULE": {
+            "frames": 0,
+            "moyenne": 0
+        }
+    },
+    "timestamp": "2026-02-09T23:58:51.579139"
+}

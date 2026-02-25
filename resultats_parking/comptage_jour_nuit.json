@@ -1,0 +1,22 @@
+{
+    "video": "data\\parking1.mp4",
+    "frames_totales": 102,
+    "max_voitures": 16,
+    "min_voitures": 0,
+    "moyenne_voitures": 4.8,
+    "par_mode": {
+        "JOUR": {
+            "frames": 102,
+            "moyenne_voitures": 4.8
+        },
+        "NUIT": {
+            "frames": 0,
+            "moyenne_voitures": 0
+        },
+        "CREPUSCULE": {
+            "frames": 0,
+            "moyenne_voitures": 0
+        }
+    },
+    "timestamp": "2026-02-09T23:43:33.240302"
+}

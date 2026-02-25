@@ -1,0 +1,14 @@
+{
+    "mode": "JOUR",
+    "device": "CPU",
+    "detection_time": 0.64,
+    "plates_detected": 1,
+    "plates": [
+        {
+            "id": 1,
+            "text": "185398585",
+            "yolo_confidence": 0.844,
+            "ocr_confidence": 0.472
+        }
+    ]
+}

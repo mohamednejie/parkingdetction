@@ -1,0 +1,21 @@
+{
+    "mode": "JOUR",
+    "device": "CPU",
+    "image": "./data/test.jpg",
+    "temps_detection_sec": 0.59,
+    "nombre_plaques": 1,
+    "plates": [
+        {
+            "id": 1,
+            "bbox": [
+                707,
+                578,
+                927,
+                635
+            ],
+            "text": "   ",
+            "yolo_confidence": 0.862,
+            "ocr_confidence": 0.297
+        }
+    ]
+}

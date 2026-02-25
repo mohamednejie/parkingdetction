@@ -1,0 +1,25 @@
+{
+    "video_source": "data\\parking1.mp4",
+    "video_resultat": "resultats_parking\\resultat_parking1_20260216_013617.avi",
+    "taille_mb": 11.8,
+    "frames_totales": 94,
+    "temps_traitement": 41.0,
+    "max_voitures": 14,
+    "min_voitures": 0,
+    "moyenne": 4.9,
+    "par_mode": {
+        "JOUR": {
+            "frames": 94,
+            "moyenne": 4.9
+        },
+        "NUIT": {
+            "frames": 0,
+            "moyenne": 0
+        },
+        "CREPUSCULE": {
+            "frames": 0,
+            "moyenne": 0
+        }
+    },
+    "timestamp": "2026-02-16T01:36:58.864204"
+}

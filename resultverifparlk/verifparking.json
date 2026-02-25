@@ -1,0 +1,36 @@
+[
+    {
+        "image": "test.jpg",
+        "is_parking": false,
+        "score": 60,
+        "car_count": 1,
+        "line_count": 210,
+        "regular_structure": true,
+        "asphalt_ratio": 0.4220948047727378,
+        "sand_ratio": 0.1229109986536051,
+        "spacing_std": 9.229532369488593,
+        "diagnostics": [
+            "210 lignes",
+            "🅿️ structure parking",
+            "asphalte",
+            "1 voiture(s) → trop peu pour confirmer"
+        ]
+    },
+    {
+        "image": "test.jpg",
+        "is_parking": false,
+        "score": 60,
+        "car_count": 1,
+        "line_count": 210,
+        "regular_structure": true,
+        "asphalt_ratio": 0.4220948047727378,
+        "sand_ratio": 0.1229109986536051,
+        "spacing_std": 9.229532369488593,
+        "diagnostics": [
+            "210 lignes",
+            "🅿️ structure parking",
+            "asphalte",
+            "1 voiture(s) → trop peu pour confirmer"
+        ]
+    }
+]
