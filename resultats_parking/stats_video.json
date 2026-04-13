@@ -1,16 +1,16 @@
 {
     "video_source": "data\\parking1.mp4",
-    "video_resultat": "resultats_parking\\resultat_parking1_20260216_013617.avi",
-    "taille_mb": 11.8,
-    "frames_totales": 94,
-    "temps_traitement": 41.0,
+    "video_resultat": "resultats_parking\\resultat_parking1_20260305_060635.avi",
+    "taille_mb": 5.1,
+    "frames_totales": 44,
+    "temps_traitement": 14.7,
     "max_voitures": 14,
     "min_voitures": 0,
-    "moyenne": 4.9,
+    "moyenne": 4.0,
     "par_mode": {
         "JOUR": {
-            "frames": 94,
-            "moyenne": 4.9
+            "frames": 44,
+            "moyenne": 4.0
         },
         "NUIT": {
             "frames": 0,
@@ -21,5 +21,5 @@
             "moyenne": 0
         }
     },
-    "timestamp": "2026-02-16T01:36:58.864204"
+    "timestamp": "2026-03-05T06:06:49.921784"
 }

@@ -8,4 +8,5 @@ Pillow
 matplotlib  
 paddleocr==2.6.1
 paddlepaddle==2.6.2 
-flask                                                                                                          
+flask
+flask-cors                                                                                                          

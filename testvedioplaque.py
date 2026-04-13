@@ -35,7 +35,7 @@ MAX_FRAMES = None
 # ==========================================================
 # 🎯 CONFIGURATION MATCHING
 # ==========================================================
-MATCH_THRESHOLD = 0.7    # Score minimum pour valider
+MATCH_THRESHOLD = 0.5   # Score minimum pour valider
 
 # Base de données des plaques autorisées
 AUTHORIZED_PLATES = [
